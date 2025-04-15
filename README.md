@@ -16,7 +16,8 @@ This project is a **real-time log monitoring solution** built with AWS services 
 
 ## 🛠️ Architecture
 
-[![Architecture Diagram](./images/architecture.png)](./images/architecture.png)
+![Architecture Diagram](./architecture_image.png)
+
 
 
 ---
